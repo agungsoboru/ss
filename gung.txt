@@ -1,4 +1,4 @@
-export http_proxy=gung:gung@192.168.20.111:11111
-export https_proxy=gung:gung@192.168.20.111:11111
-export ftp_proxy=gung:gung@192.168.20.111:11111
+export http_proxy=gung:gung@202.145.2.100:11111
+export https_proxy=gung:gung@202.145.2.100:11111
+export ftp_proxy=gung:gung@202.145.2.100:11111
 export no_proxy=localhost
